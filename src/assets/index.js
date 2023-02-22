@@ -1,7 +1,9 @@
-import logo from './logo.svg';
-import yariga from './yariga.svg';
+import logo from './LandlineLogo.png';
+import yariga from './Landline.png';
+import map from './MapA.png'
 
 export {
   logo,
   yariga,
+  map
 };
